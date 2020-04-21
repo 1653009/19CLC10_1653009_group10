@@ -1,0 +1,2 @@
+1,CTT003,2018-2019,Nhap mon lap trinh,lhthai,12/9/2018,17/11/2018,13h30,17h30,Wednesday,1
+2,CTT008,2018-2019,KTLT,nmhuy,7/1/2019,13/04/2019,15h30,17h30,Wednesday,2
